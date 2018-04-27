@@ -4,7 +4,7 @@ start a php process
 
 stop this process
 
->php stop.pid
+>php stop.php
 
 restart this process
 
