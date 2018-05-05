@@ -16,7 +16,7 @@
 	}
 	*/
 	
-	$size = 1024*1024*1024;
+	$size = 1024*1024*100;
 	
 	$total = $generated_total = 0;
 	
